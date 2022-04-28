@@ -7,7 +7,7 @@ public class Ex04 {
 		
 		ret = ch +num;
 		System.out.println("ret = " +ret);
-		System.out.println("ret = " +(char)ret);
+		System.out.println("ret = " +(char)ret);   //해당하는 숫자ret을 문자 char로 변환
 	}
 
 }
